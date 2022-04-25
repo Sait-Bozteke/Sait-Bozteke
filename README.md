@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 I'm Sait Bozteke from Nederland, and I do content on Design and Development. I really enjoy learning languages.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaitBozteke&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sait&theme=dark&show_icons=true)
