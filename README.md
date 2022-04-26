@@ -1,5 +1,5 @@
-
-### <h2 style="font-size:160%;">Hi there 👋 I'm Sait Bozteke, a full-stack developer 🚀</h2>  
+Hi there 👋
+### <h2> I'm a full-stack developer 🚀</h2>  
 
 <div>
 <img src="https://github.com/Sait-Bozteke/Sait-Bozteke/blob/main/img/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6.gif" style="width: 70%" />
