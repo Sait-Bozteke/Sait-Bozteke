@@ -19,7 +19,7 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sait-Bozteke&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=Sait-Bozteke&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 ## My Skill Set  
@@ -37,7 +37,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
@@ -52,7 +52,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
