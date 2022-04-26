@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sait Bozteke, a full-stack developer 🚀</div>  
+### <div>I'm Sait Bozteke, a full-stack developer 🚀</div>  
   
 
 - 🔭 I’m currently working on my cool project!
