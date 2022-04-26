@@ -2,7 +2,7 @@
 <h1> I'm a full-stack developer 🚀!</h1>  
 
 <div>
-<img src="https://github.com/Sait-Bozteke/Sait-Bozteke/blob/main/img/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6.gif" style="width: 70%" />
+<img src="https://github.com/Sait-Bozteke/Sait-Bozteke/blob/main/img/1.gif" style="width: 70%" />
 </div>  
   
 
@@ -77,7 +77,7 @@
 </div>  
 
   <div>
-<img src="https://github.com/Sait-Bozteke/Sait-Bozteke/blob/main/img/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4534676e4575795f2d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253.gif" style="width: 100%" />
+<img src="https://github.com/Sait-Bozteke/Sait-Bozteke/blob/main/img/2.gif" style="width: 100%" />
 </div>  
 
 
